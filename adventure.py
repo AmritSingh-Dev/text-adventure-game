@@ -1,1 +1,1 @@
-# Text adventure game about rock star who finds himself in purgortory surrounded by zomboies
+# Text adventure game about rock star who finds himself in purgortory surrounded by zombies
